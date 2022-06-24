@@ -41,6 +41,9 @@ Name: mounika.s.c
 ## program :
 ![image](https://user-images.githubusercontent.com/78891098/175456081-8ebbbae2-e294-4135-9b17-20a542115f2c.png)
 
+![image](https://user-images.githubusercontent.com/78891098/175459638-c1f9b828-d1d2-48c7-af65-70f61a1527db.png)
+
+
 
 ## output : 
 ![image](https://user-images.githubusercontent.com/78891098/175456093-1ad2b35d-dfbb-4a51-ad1c-a7d0f9055e65.png)
