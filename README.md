@@ -30,22 +30,25 @@ Controllers: Controllers synchronize and control the movement of different actua
 
 
 Procedure:
-// Roll no:
+ Roll no: 212219040084
 
-//Name:
+Name: mounika.s.c
 
 1) Place the given object on table (Workspace).
 2) Use 2 Jaw Gripper to pick the object from P1 (Pick Point). 
 3)Move to poin1 using move J
 ............
+## program :
+![image](https://user-images.githubusercontent.com/78891098/175456081-8ebbbae2-e294-4135-9b17-20a542115f2c.png)
 
 
 ## output : 
+![image](https://user-images.githubusercontent.com/78891098/175456093-1ad2b35d-dfbb-4a51-ad1c-a7d0f9055e65.png)
 
 
 ## Results: 
 
-
+ Thus, program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio is executed.
 
 
 
